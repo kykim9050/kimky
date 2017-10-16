@@ -8,3 +8,5 @@ int foo2(int f2){
 
 int foo5(int f5){
 }
+int foo6(int f6){
+}
